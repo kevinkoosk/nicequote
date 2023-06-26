@@ -43,4 +43,5 @@ if (file_exists($quoteFilePath)) {
 } else {
     echo 'Quote not found.';
 }
+echo '<p>Support my affiliate links:</p> <p><a href="../bcast/">bcast</a> <a href="../deskera/">deskera</a> <a href="../heights/">heights</a> <a href="../morningbrew/">morning brew</a> <a href="../publitio/">publitio</a> <a href="../suitedash/">suitedash</a></p>' 
 ?>
